@@ -1,6 +1,6 @@
 # Modelo de Previsão de Acidentes em Indústrias
 
-1. **Introdução**
+## 1. **Introdução**
 
 Os acidentes de trabalho são ocorrências indesejadas que podem causar lesões corporais ou doenças aos trabalhadores durante o exercício de suas atividades. Esses incidentes podem ocorrer devido a várias razões, como condições inseguras no local de trabalho, falta de treinamento, equipamentos inadequados e outras negligências.
 A importância de prever e prevenir esses acidentes é multifacetada e impacta diversos aspectos:
@@ -32,18 +32,24 @@ Em nosso estudo, abordaremos tópicos como a análise dos setores mais propensos a
 
 ---
 
-2. **Índice**
+## 2. **Índice**
+
+1. [Introdução]()
+2. [Índice]()
+3. [Fonte]()
+4. [Habilidades Adquiridas]()
+5. [Execução do Código]()
 
 
 ---
 
-3. **Fonte**
+## 3. **Fonte**
 
 Para este estudo, foi utilizado o dataset disponibilizado no Kaggle por IHM Stefanini em 
 https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database
 
 
-4. **Habilidades Adquiridas**
+## 4. **Habilidades Adquiridas**
 
 Durante a execução do projeto, foram adquiridas diversas competências essenciais para a manipulação, análise e modelagem de dados relacionados a acidentes de trabalho. Abaixo estão destacadas as principais habilidades adquiridas e as aprendizagens resultantes de cada uma:
 
@@ -71,7 +77,7 @@ Durante a execução do projeto, foram adquiridas diversas competências essenciais
 
 ---
 
-5. **Execução do Código**
+## 5. **Execução do Código**
 
 Antes de executar o código no Jupyter Notebook, é necessário garantir que as bibliotecas adequadas estejam instaladas. Utilize o seguinte comando para instalar as dependências:
 
