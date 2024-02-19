@@ -34,11 +34,11 @@ Em nosso estudo, abordaremos tópicos como a análise dos setores mais propensos a
 
 ## 2. **Índice**
 
-1. [Introdução]()
-2. [Índice]()
-3. [Fonte]()
-4. [Habilidades Adquiridas]()
-5. [Execução do Código]()
+1. [Introdução](https://github.com/IgorPSantos99/Industrial_Safety_Analysis/blob/main/README.md#1-introdu%C3%A7%C3%A3o)
+2. [Índice](https://github.com/IgorPSantos99/Industrial_Safety_Analysis/blob/main/README.md#2-%C3%ADndice)
+3. [Fonte](https://github.com/IgorPSantos99/Industrial_Safety_Analysis/blob/main/README.md#3-fonte)
+4. [Habilidades Adquiridas](https://github.com/IgorPSantos99/Industrial_Safety_Analysis/blob/main/README.md#4-habilidades-adquiridas)
+5. [Execução do Código](https://github.com/IgorPSantos99/Industrial_Safety_Analysis/blob/main/README.md#5-execu%C3%A7%C3%A3o-do-c%C3%B3digo)
 
 
 ---
@@ -136,4 +136,3 @@ jupyter notebook
 Certifique-se de que todas as dependências foram instaladas corretamente e não há erros durante a execução do código.
 
 Lembre-se de adaptar o caminho do arquivo caso esteja em um diretório diferente do Jupyter Notebook.
----
